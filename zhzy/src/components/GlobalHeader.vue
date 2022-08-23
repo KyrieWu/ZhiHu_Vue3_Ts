@@ -11,7 +11,7 @@
     </ul>
     <ul v-else class="list-inline mb-0">
       <li class="list-inline-item">
-        <drapdown :title="`你好 ${user.name}}}`">
+        <drapdown :title="`你好 ${user.name}`">
           <dropdown-item
             ><a href="#" class="dropdown-item">新建文章</a></dropdown-item
           >
